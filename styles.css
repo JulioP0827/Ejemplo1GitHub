@@ -1,0 +1,19 @@
+.body {
+    background-color: skyblue;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    color:azure;
+    font-size: xx-large;
+}
+
+h2 {
+    color:ghostwhite;
+    font-size: medium;
+}
+
+p {
+    color: #333;
+}
